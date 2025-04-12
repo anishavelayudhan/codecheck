@@ -1,0 +1,4 @@
+PyGithub==2.6.1
+openai==1.72.0
+python-dotenv==1.1.0
+glob2==0.7.0 
