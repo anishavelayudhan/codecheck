@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 # Supported OpenAI models
 SUPPORTED_MODELS = [
+    'gpt-5',
     'gpt-4o',
     'gpt-4',
     'gpt-4-turbo-preview',
